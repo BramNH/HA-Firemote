@@ -4717,7 +4717,7 @@ const launcherData = {
       "chromecast": {
           "appName": "com.nordvpn.android",
           "androidName": "com.nordvpn.android",
-          "adbLaunchCommand": "adb shell am start -n com.nordvpn.android/.MainActivity",
+          "adbLaunchCommand": "adb shell am start -n com.nordvpn.android/.tv.MainActivity",
       },
       "homatics": {
           "appName": "com.nordvpn.android",
